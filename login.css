@@ -1,0 +1,35 @@
+#enca{
+	color: black;
+	text-align: center;
+	}
+
+#usuario,#contrasena{
+	text-align: center;
+	width: 300px;
+	height: 50px;
+	font-size:24px;
+	background-color: white;
+	}
+
+#registrar{
+	font-size:24px;
+}
+
+#submit{
+	width: 100px;
+	height: 50px;
+	font-size:24px;
+	background-color: green;
+	}
+
+#submit:hover{
+	background-color:orange;
+	}
+
+form {
+	text-align:center;
+}
+
+body{
+	background-color: gray;
+}
